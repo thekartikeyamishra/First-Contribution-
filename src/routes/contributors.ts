@@ -21,6 +21,11 @@ export const contributors = [
 		github: 'https://github.com/Yash8840'
 	},
 	{
+		name: 'Kartikeya Mishra',
+		github: 'https://github.com/thekartikeyamishra'
+
+	},
+	{
 		name: 'Nishant Kumar',
 		github: 'https://github.com/NkOffiCiAL07'
 	},
